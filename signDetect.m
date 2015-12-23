@@ -1,5 +1,5 @@
 
-
+%% Code to detect circles ,triangles and squares in an image.
 close all;
 I=imread('data.png');
 II=rgb2gray(I);
